@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand case of England, so fiercely now disputed by fire and svvord, epitomized.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85516</idno>
+            <idno type="STC">Wing G1487</idno>
+            <idno type="STC">Thomason E88_27</idno>
+            <idno type="STC">ESTC R1312</idno>
+            <idno type="EEBO-CITATION">99859414</idno>
+            <idno type="PROQUEST">99859414</idno>
+            <idno type="VID">111490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand case of England, so fiercely now disputed by fire and svvord, epitomized.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111490:1" rendition="simple:additions"/>
+            <p>THE GRAND CASE OF ENGLAND, So fiercely now diſputed by FIRE and SVVORD, EPITOMIZED.</p>
+            <p>
+               <add>feb: 8</add> 
+               <hi>LONDON,</hi> Printed for <hi>J. Partridge,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111490:2"/>
+            <pb n="3" facs="tcp:111490:2"/>
+            <head>THE GRAND CASE So bloudily diſputed at this preſent in ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Principall, if not the onely <hi>Queſtion,</hi> now de<g ref="char:EOLhyphen"/>bated by the Divine, Lawyer, Stateſman, and Swordman is, whether or no, The <hi>Reaſon</hi> and <hi>Judgement</hi> of the King, be the ſupreme <hi>Reaſon</hi> and <hi>Judge<g ref="char:EOLhyphen"/>ment</hi> of the <hi>Kingdome</hi> in all Caſes of great doubt, and publike con<g ref="char:EOLhyphen"/>cernment. If the Law have left all weighty and difficult matters to the meer underſtanding of the
+<pb n="4" facs="tcp:111490:3"/>
+               <hi>King,</hi> 'tis all one, as if all things were left to His meer will; and if ſo, then the <hi>King</hi> is abſolved of all limits and conditions. No <hi>King</hi> can be more abſolute; if it be con<g ref="char:EOLhyphen"/>feſſed, that the <hi>King</hi> is not ſole and ſupreme <hi>Judge.</hi>
+            </p>
+            <p>The next <hi>Queſtion</hi> is, Whether the <hi>King</hi> may chuſe His own <hi>Coun<g ref="char:EOLhyphen"/>cellours</hi> and <hi>Judges,</hi> at meer plea<g ref="char:EOLhyphen"/>ſure, or no. For if He may in time of <hi>Parliament,</hi> prefer the <hi>Councell</hi> of ſuch <hi>Courtiers</hi> as He likes beſt, before the <hi>Common Councell</hi> of the <hi>Kingdom;</hi> and out of <hi>Parliament</hi> the judgement of illiterate, un<g ref="char:EOLhyphen"/>graded men, before that of His moſt learned, ſtudied, ſworn <hi>Judges;</hi> all Law of confining the <hi>King</hi> to other Reaſon and Judge<g ref="char:EOLhyphen"/>ment,
+<pb n="5" facs="tcp:111490:3"/>then His own, is vain, and of no effect. But if the <hi>King</hi> be by in<g ref="char:EOLhyphen"/>trudement of Law, as wel deſigned and neceſſitated to that <hi>Councell</hi> al<g ref="char:EOLhyphen"/>wayes which is ſupreme, and moſt publike for the time being, and re<g ref="char:EOLhyphen"/>ſtrained from any other inferiour, and more private.</p>
+            <p>The next <hi>Queſtion</hi> is, Whether the Law have allowed to the <hi>King</hi> ſuch a latitude of Negative voyce, as to fruſtrate and annihilate what<g ref="char:EOLhyphen"/>ſoever is adjudged by both <hi>Houſes</hi> in <hi>Parliament,</hi> or by the <hi>Judges</hi> out of <hi>Parliament.</hi> For as God and Na<g ref="char:EOLhyphen"/>ture abhorre vacuities, and fru<g ref="char:EOLhyphen"/>ſtraneous acts; ſo certainly Law, which flows from the ſame Source muſt needs do the like. Nay, if the <hi>Kings</hi> right of Negation be main<g ref="char:EOLhyphen"/>tained
+<pb n="6" facs="tcp:111490:4"/>in all Caſes, as well ſuch as concern publike as private Affairs, and ſuch as concern the Life, and Fortunes, and Liberties, and Con<g ref="char:EOLhyphen"/>ſciences of ſuch and ſuch particular men, as well as thoſe which con<g ref="char:EOLhyphen"/>cern His own intradoer, or dome<g ref="char:EOLhyphen"/>ſticall Affairs, not onely all Law is made fruſtraneous, but utterly per<g ref="char:EOLhyphen"/>nicious. For Nature muſt needs imprint this in us all, That a State may be more happy by ſubjecting it ſelf to the boundleſſe Arbitrary Law of one mans will, then to ſuch a determinate Law as one man may obſtruct and make fruſtrate at pleaſure, but cannot open, and make vigorous. Our preſent miſe<g ref="char:EOLhyphen"/>ry ſhew<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us this truth too plain, for were either the Kings will admit<g ref="char:EOLhyphen"/>ted,
+<pb n="7" facs="tcp:111490:4"/>or the Judgements which the <hi>Houſes</hi> have given concerning the the <hi>Militia</hi> of the Kingdom (and other differences at this time) for meer Law, This Nation could not be ſo torne, and grinded to duſt in ſuch an inſtant as it is.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>LEt the Learned in the Lawes now ſhew and declare them<g ref="char:EOLhyphen"/>ſelves; And if the Caſe be uncer<g ref="char:EOLhyphen"/>tain, Let the <hi>Parliament</hi> interpret it; And if the Law have been hi<g ref="char:EOLhyphen"/>therto defective herein, Let that Community in its repreſentative Court, joyned with the Nobility, which created all Law, as well that by which the King, as that, by which every Subject holds, ſup<g ref="char:EOLhyphen"/>ply
+<pb n="8" facs="tcp:111490:5"/>that defect. If Law be open in its true Fountain, Let that prevent bloudſhed: If Law be obſtructed, and oppreſſed in its Fountain, Let us open it with our bloud No mans bloud can be more thriftily and wiſely expended then in de<g ref="char:EOLhyphen"/>fence of that Court, which gave being both to Kings, and Laws, and preſerves, being, both to Kings, Laws, and Subjects.</p>
+            <epigraph>
+               <q xml:lang="grc">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
